@@ -121,7 +121,7 @@ module SIM1 {
 
   instance comStub: Svc.ComStub base id 0x4B00
 
-  instance adcDriver: TestModule.ADC base id 0x0000 
+  instance adcDriver: TestModule.ADC base id 0x5000
 
-  instance simSPI: TestModule.SimSPI base id 0x4C00
+  instance simSPI: TestModule.SimSPI base id 0x6000
 }

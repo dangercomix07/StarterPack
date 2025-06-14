@@ -137,7 +137,9 @@ module SIM1 {
 
     connections SIM1 {
       # Add here connections to user-defined components
-      simSPI.sampleOut -> adcDriver.spiRead
+      adcDriver.spiRequest -> simSPI.sampleRequest
+      simSPI.sampleOut -> adcDriver.spiSampleIn
+
     }
 
   }

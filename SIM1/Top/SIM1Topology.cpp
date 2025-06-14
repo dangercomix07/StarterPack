@@ -175,11 +175,6 @@ void startSimulatedCycle(Fw::TimeInterval interval) {
         SIM1::blockDrv.callIsr();
         Os::Task::delay(interval);
 
-        for (U16 i = 0; i < 100; i++) {
-            simSPI.sendSample(i * 10); // Simulate samples
-            Os::Task::delay(Fw::TimeInterval(0.5,0));     // Wait 1 second
-        }
-
         cycleLock.lock();
         cycling = cycleFlag;
         cycleLock.unLock();

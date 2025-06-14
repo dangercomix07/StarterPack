@@ -29,11 +29,25 @@ class ADC : public ADCComponentBase {
     // Handler implementations for typed input ports
     // ----------------------------------------------------------------------
 
-    //! Handler implementation for spiRead
+    //! Handler implementation for spiSampleIn
     //!
-    //! Input port for receiving commands from SPI Driver
-    void spiRead_handler(FwIndexType portNum,  //!< The port number
-                         U16 sample) override;
+    //! Input port to receive the result of SPI sample read
+    void spiSampleIn_handler(FwIndexType portNum,  //!< The port number
+                             U8 channel,           //!< Which ADC channel this sample came from
+                             U16 value             //!< Raw ADC value from SPI
+                             ) override;
+
+  PRIVATE:
+    // ----------------------------------------------------------------------
+    // Handler implementations for commands
+    // ----------------------------------------------------------------------
+
+    //! Handler implementation for command RequestSample
+    //!
+    //! Request sample on a given channel (command from app logic)
+    void RequestSample_cmdHandler(FwOpcodeType opCode,  //!< The opcode
+                                  U32 cmdSeq,           //!< The command sequence number
+                                  U8 channel) override;
 };
 
 }  // namespace TestModule

@@ -21,11 +21,14 @@ module TestModule {
         # @ Example parameter
         # param PARAMETER_NAME: U32
 
+        @ Input port: receives channel request from ADC
+        sync input port sampleRequest: spiSampleRequest
+
         @ Output port to send samples
         output port sampleOut: TestModule.spiSample
         
-        @ Event for emitting the SPI sample value
-        event SAMPLE(sample: U16) severity activity high id 1 format "SPI Sample: {}"
+        @ Event: logs which sample was sent
+        event SampleSent(channel: U8, sample: U16) severity activity high id 0 format "Sample sent on channel {} with value {}"
         
         ###############################################################################
         # Standard AC Ports: Required for Channels, Events, Commands, and Parameters  #

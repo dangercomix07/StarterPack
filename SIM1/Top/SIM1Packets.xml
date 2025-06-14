@@ -73,6 +73,11 @@
         <channel name="systemResources.CPU_15"/>
     </packet>
     
+    <packet name="ADC SIMULATION" id="0" level="1">
+        <channel name="adcDriver.LastSampledChannel"/>
+        <channel name="adcDriver.LastSampledValue"/>
+    </packet>
+    
     <!-- Ignored packets -->
 
     <ignore>
