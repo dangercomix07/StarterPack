@@ -173,7 +173,7 @@ void startSimulatedCycle(Fw::TimeInterval interval) {
     // Main loop
     while (cycling) {
         SIM1::blockDrv.callIsr();
-        simSPI.injectSampleRequest(0, 1456); //Inject fake SPI value to SimSPI component
+        //simSPI.injectSampleRequest(0, 1456); //Inject fake SPI value to SimSPI component
         Os::Task::delay(interval);
 
         cycleLock.lock();
