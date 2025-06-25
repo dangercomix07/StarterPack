@@ -10,16 +10,13 @@ extern "C" {
   #include "HL_sys_common.h"
 }
 
-
-namespace Drv {
+namespace Drivers {
 
 // ----------------------------------------------------------------------
 // Component construction and destruction
 // ----------------------------------------------------------------------
 
-TMS570UartDriver ::TMS570UartDriver(const char* const compName) : TMS570UartDriverComponentBase(compName) { 
-    sciInit(); 
-}
+TMS570UartDriver ::TMS570UartDriver(const char* const compName) : TMS570UartDriverComponentBase(compName) {}
 
 TMS570UartDriver ::~TMS570UartDriver() {}
 
@@ -28,7 +25,7 @@ TMS570UartDriver ::~TMS570UartDriver() {}
 // ----------------------------------------------------------------------
 
 Drv::SendStatus TMS570UartDriver ::send_handler(FwIndexType portNum, Fw::Buffer& sendBuffer) {
-    // TODO return
+        // TODO return
     // 1) Transmit all bytes over HAL SCI
     // sciSend takes: (sciREGx, number_of_bytes, pointer_to_data)
     sciSend(sciREG1,
@@ -48,4 +45,4 @@ Drv::SendStatus TMS570UartDriver ::send_handler(FwIndexType portNum, Fw::Buffer&
     return Drv::SendStatus::SEND_OK;
 }
 
-}  // namespace Drv
+}  // namespace Drivers

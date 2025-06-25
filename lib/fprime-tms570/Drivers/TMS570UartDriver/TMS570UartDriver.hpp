@@ -4,12 +4,12 @@
 // \brief  hpp file for TMS570UartDriver component implementation class
 // ======================================================================
 
-#ifndef Drv_TMS570UartDriver_HPP
-#define Drv_TMS570UartDriver_HPP
+#ifndef Drivers_TMS570UartDriver_HPP
+#define Drivers_TMS570UartDriver_HPP
 
 #include "Drivers/TMS570UartDriver/TMS570UartDriverComponentAc.hpp"
 
-namespace Drv {
+namespace Drivers {
 
 class TMS570UartDriver : public TMS570UartDriverComponentBase {
   public:
@@ -37,6 +37,6 @@ class TMS570UartDriver : public TMS570UartDriverComponentBase {
                                  ) override;
 };
 
-}  // namespace Drv
+}  // namespace Drivers
 
 #endif
