@@ -255,6 +255,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../lib/fprime/config/VersionCfg.fpp"
   "../project.cmake"
   "../settings.ini"
+<<<<<<< HEAD
   "/usr/share/cmake-3.16/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c"
   "/usr/share/cmake-3.16/Modules/CMakeCInformation.cmake"
@@ -330,6 +331,20 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.16/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
   "/usr/share/cmake-3.16/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
   "/usr/share/cmake-3.16/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
+=======
+  "/usr/share/cmake-3.16/Modules/CMakeCInformation.cmake"
+  "/usr/share/cmake-3.16/Modules/CMakeCXXInformation.cmake"
+  "/usr/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake"
+  "/usr/share/cmake-3.16/Modules/CMakeGenericSystem.cmake"
+  "/usr/share/cmake-3.16/Modules/CMakeInitializeConfigs.cmake"
+  "/usr/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake"
+  "/usr/share/cmake-3.16/Modules/CMakeSystemSpecificInformation.cmake"
+  "/usr/share/cmake-3.16/Modules/CMakeSystemSpecificInitialize.cmake"
+  "/usr/share/cmake-3.16/Modules/CTest.cmake"
+  "/usr/share/cmake-3.16/Modules/CTestUseLaunchers.cmake"
+  "/usr/share/cmake-3.16/Modules/Compiler/TI-C.cmake"
+  "/usr/share/cmake-3.16/Modules/Compiler/TI-CXX.cmake"
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
   "/usr/share/cmake-3.16/Modules/Platform/Generic.cmake"
   )
 
@@ -341,11 +356,14 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+<<<<<<< HEAD
   "CMakeFiles/3.16.3/CMakeSystem.cmake"
   "CMakeFiles/3.16.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.16.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
+=======
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "F-Prime/Autocoders/CMakeFiles/CMakeDirectoryInformation.cmake"
   "F-Prime/Autocoders/Python/CMakeFiles/CMakeDirectoryInformation.cmake"

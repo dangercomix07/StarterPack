@@ -33,11 +33,16 @@ CMAKE_BUILD_TYPE:STRING=Release
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
+<<<<<<< HEAD
 //No help, variable specified on the command line.
 CMAKE_CXX_COMPILER:UNINITIALIZED=/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl
 
 //Flags used by the CXX compiler during all build types.
 CMAKE_CXX_FLAGS:STRING= -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number
+=======
+//Flags used by the CXX compiler during all build types.
+CMAKE_CXX_FLAGS:STRING= -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 
 //Flags used by the CXX compiler during DEBUG builds.
 CMAKE_CXX_FLAGS_DEBUG:STRING=
@@ -51,11 +56,16 @@ CMAKE_CXX_FLAGS_RELEASE:STRING=
 //Flags used by the CXX compiler during RELWITHDEBINFO builds.
 CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=
 
+<<<<<<< HEAD
 //No help, variable specified on the command line.
 CMAKE_C_COMPILER:UNINITIALIZED=/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl
 
 //Flags used by the C compiler during all build types.
 CMAKE_C_FLAGS:STRING= -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number
+=======
+//Flags used by the C compiler during all build types.
+CMAKE_C_FLAGS:STRING= -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 
 //Flags used by the C compiler during DEBUG builds.
 CMAKE_C_FLAGS_DEBUG:STRING=
@@ -93,6 +103,12 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 //Enable/Disable output of compile commands during generation.
 CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=ON
 
+<<<<<<< HEAD
+=======
+//Install path prefix, prepended onto install directories.
+CMAKE_INSTALL_PREFIX:PATH=/usr/local
+
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 //No help, variable specified on the command line.
 CMAKE_LINKER:FILEPATH=CMAKE_LINKER-NOTFOUND
 
@@ -308,8 +324,11 @@ CMAKE_COMMAND:INTERNAL=/usr/bin/cmake
 CMAKE_CPACK_COMMAND:INTERNAL=/usr/bin/cpack
 //Path to ctest program executable.
 CMAKE_CTEST_COMMAND:INTERNAL=/usr/bin/ctest
+<<<<<<< HEAD
 //ADVANCED property for variable: CMAKE_CXX_COMPILER
 CMAKE_CXX_COMPILER-ADVANCED:INTERNAL=1
+=======
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 //ADVANCED property for variable: CMAKE_CXX_FLAGS
 CMAKE_CXX_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_CXX_FLAGS_DEBUG
@@ -320,8 +339,11 @@ CMAKE_CXX_FLAGS_MINSIZEREL-ADVANCED:INTERNAL=1
 CMAKE_CXX_FLAGS_RELEASE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_CXX_FLAGS_RELWITHDEBINFO
 CMAKE_CXX_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
+<<<<<<< HEAD
 //ADVANCED property for variable: CMAKE_C_COMPILER
 CMAKE_C_COMPILER-ADVANCED:INTERNAL=1
+=======
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 //ADVANCED property for variable: CMAKE_C_FLAGS
 CMAKE_C_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_C_FLAGS_DEBUG
@@ -361,9 +383,14 @@ CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
 CMAKE_HOME_DIRECTORY:INTERNAL=/home/ameya/fprimesandbox/StarterPack
+<<<<<<< HEAD
 CMAKE_INSTALL_PREFIX:INTERNAL=/home/ameya/fprimesandbox/StarterPack/build-artifacts
 //Original value of CMAKE_INSTALL_PREFIX from settings.ini
 CMAKE_INSTALL_PREFIX_INI_:INTERNAL=/home/ameya/fprimesandbox/StarterPack/build-artifacts
+=======
+//Original value of CMAKE_INSTALL_PREFIX from CLI
+CMAKE_INSTALL_PREFIX_CLI_:INTERNAL=/usr/local
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 //ADVANCED property for variable: CMAKE_LINKER
 CMAKE_LINKER-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MODULE_LINKER_FLAGS

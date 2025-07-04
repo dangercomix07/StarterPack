@@ -1,0 +1,6544 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/CMakeFiles/3.16.3/CMakeSystem.cmake"
+		},
+		{
+			"path" : "lib/fprime-tms570/cmake/toolchain/tms570-toolchain.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/CMakeFiles/3.16.3/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Compiler/TI-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Compiler/TI-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/FPrime.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/options.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/settings/ini.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CTestUseLaunchers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/sanitizers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/required.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/platform/platform.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/API.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime-tms570/cmake/platform/TMS570.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/module.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/target/target.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/implementation.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/autocoder.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/target/target.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/API.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/sub-build/sub-build.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/sub-build/sub-build-config.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/API.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/settings.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/target/build.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/autocoder.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/implementation.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/target/version.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/target/install.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/target/sbom.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/target/refresh_cache.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/cmake_language.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/cmake_language.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/cmake_language.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/cmake_language.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/cmake_language.cmake"
+		},
+		{
+			"path" : "lib/fprime-tms570/library.cmake"
+		},
+		{
+			"path" : "project.cmake"
+		},
+		{
+			"path" : "settings.ini"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/arrays/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/channels/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/commands/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/component/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/events/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/enums/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/gtest/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/html/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/impl/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/md/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/port/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/serialize/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/test/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/test_impl/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Autocoders/Python/src/fprime_ac/generators/templates/topology/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/config/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/cmake_language.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/cmake_language.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-tms570/cmake_language.cmake"
+		},
+		{
+			"path" : "lib/fprime/config/AcConstants.fpp"
+		},
+		{
+			"path" : "lib/fprime/config/DpCfg.fpp"
+		},
+		{
+			"path" : "lib/fprime/config/FpConfig.fpp"
+		},
+		{
+			"path" : "lib/fprime/config/PolyDbCfg.fpp"
+		},
+		{
+			"path" : "lib/fprime/config/VersionCfg.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Fw/Buffer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Buffer/Buffer.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Cmd/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Cmd/Cmd.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Com/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Com/Com.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Dp/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Dp/Dp.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Log/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Log/Log.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Logger/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Prm/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Prm/Prm.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Time/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Time/Time.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Tlm/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Tlm/Tlm.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Cfg/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Comp/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Sm/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/FilePacket/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/FilePacket/GTest/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Fw/Obj/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Port/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Ports/SuccessCondition/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Ports/SuccessCondition/SuccessCondition.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/SerializableFile/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Test/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Types/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Fw/Types/Types.fpp"
+		},
+		{
+			"path" : "lib/fprime/Fw/Types/GTest/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Svc/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Svc/Cycle/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Cycle/Cycle.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/Fatal/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Fatal/Fatal.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/Ping/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Ping/Ping.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/PolyIf/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/PolyIf/PolyIf.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/Sched/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Sched/Sched.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/Seq/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Seq/Seq.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/WatchDog/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/WatchDog/WatchDog.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/ActiveLogger/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/ActiveLogger/ActiveLogger.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/ActiveRateGroup/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/ActiveRateGroup/ActiveRateGroup.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/AssertFatalAdapter/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/AssertFatalAdapter/AssertFatalAdapter.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/BufferAccumulator/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Svc/BufferManager/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/BufferManager/BufferManager.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/BufferLogger/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/BufferLogger/BufferLogger.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/BufferRepeater/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/BufferRepeater/BufferRepeater.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/ChronoTime/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/ChronoTime/ChronoTime.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/ComLogger/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/ComLogger/ComLogger.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/ComQueue/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/ComQueue/ComQueue.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/ComSplitter/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/ComSplitter/ComSplitter.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/ComStub/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/ComStub/ComStub.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/CmdDispatcher/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/CmdDispatcher/CmdDispatcher.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/CmdSequencer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/CmdSequencer/CmdSequencer.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/CmdSplitter/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/CmdSplitter/CmdSplitter.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/Deframer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Deframer/Deframer.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/DpCatalog/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/DpCatalog/DpCatalog.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/DpManager/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/DpManager/DpManager.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/DpPorts/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/DpPorts/DpPorts.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/DpWriter/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/DpWriter/DpWriter.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/FatalHandler/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/FatalHandler/FatalHandler.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/FileDownlinkPorts/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/FileDownlinkPorts/FileDownlinkPorts.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/FileDownlink/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/FileDownlink/FileDownlink.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/FileManager/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/FileManager/FileManager.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/FileUplink/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/FileUplink/FileUplink.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/GenericHub/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/GenericHub/GenericHub.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/Framer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Framer/Framer.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/FramingProtocol/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Health/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Health/Health.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/PassiveRateGroup/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/PassiveRateGroup/PassiveRateGroup.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/PolyDb/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/PolyDb/PolyDb.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/PrmDb/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/PrmDb/PrmDb.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/RateGroupDriver/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/RateGroupDriver/RateGroupDriver.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/SeqDispatcher/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/SeqDispatcher/SeqDispatcher.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/StaticMemory/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/StaticMemory/StaticMemory.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/TlmChan/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/TlmChan/TlmChan.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/TlmPacketizer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/TlmPacketizer/TlmPacketizer.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/SystemResources/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/SystemResources/SystemResources.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/Ports/VersionPorts/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Ports/VersionPorts/VersionPorts.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/PassiveConsoleTextLogger/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/PassiveConsoleTextLogger/PassiveConsoleTextLogger.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/ActiveTextLogger/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/ActiveTextLogger/ActiveTextLogger.fpp"
+		},
+		{
+			"path" : "lib/fprime/Svc/PosixTime/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Svc/LinuxTimer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Svc/Version/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Svc/Version/Version.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Os/Types.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/File.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/Task.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/Mutex.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/Directory.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/FileSystem.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/Generic.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/RawTime.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Models/Queue.fpp"
+		},
+		{
+			"path" : "lib/fprime/Os/Stub/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Os/Posix/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Os/Generic/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Os/Generic/Types/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Os/Linux/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Os/Darwin/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/Ports/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Drv/Ports/GpioDriverPorts.fpp"
+		},
+		{
+			"path" : "lib/fprime/Drv/Ports/I2cDriverPorts.fpp"
+		},
+		{
+			"path" : "lib/fprime/Drv/Ports/SpiDriverPorts.fpp"
+		},
+		{
+			"path" : "lib/fprime/Drv/Ports/DataTypes/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Drv/Ports/DataTypes/DataTypes.fpp"
+		},
+		{
+			"path" : "lib/fprime/Drv/BlockDriver/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Drv/BlockDriver/BlockDriver.fpp"
+		},
+		{
+			"path" : "lib/fprime/Drv/ByteStreamDriverModel/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp"
+		},
+		{
+			"path" : "lib/fprime/Drv/LinuxGpioDriver/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/LinuxUartDriver/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/LinuxSpiDriver/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/LinuxI2cDriver/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/StreamCrossover/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Drv/StreamCrossover/StreamCrossover.fpp"
+		},
+		{
+			"path" : "lib/fprime/Drv/Ip/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/TcpClient/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/TcpServer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Drv/Udp/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/CFDP/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/CFDP/Checksum/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/CFDP/Checksum/GTest/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/Utils/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Utils/Hash/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/Utils/Types/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime-tms570/Drivers/TMS570UartDriver/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime-tms570/Drivers/TMS570UartDriver/TMS570UartDriver.fpp"
+		},
+		{
+			"path" : "Components/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ADC/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "Components/ADC/ADC.fpp"
+		},
+		{
+			"path" : "Components/SimSPI/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "Components/SimSPI/SimSPI.fpp"
+		},
+		{
+			"path" : "Components/Led/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "Components/Led/Led.fpp"
+		},
+		{
+			"path" : "Ports/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/fpp.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai_xml.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/packets.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/utilities.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/helpers.cmake"
+		},
+		{
+			"path" : "lib/fprime/cmake/autocoder/ai-shared.cmake"
+		},
+		{
+			"path" : "Ports/TestPorts.fpp"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/ameya/fprimesandbox/StarterPack/build-tms570",
+		"source" : "/home/ameya/fprimesandbox/StarterPack"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

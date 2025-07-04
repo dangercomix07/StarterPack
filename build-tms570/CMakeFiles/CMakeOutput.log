@@ -29,6 +29,7 @@ The CXX compiler identification is TI, found in "/home/ameya/fprimesandbox/Start
 Determining if the C compiler works passed with the following output:
 Change Dir: /home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp
 
+<<<<<<< HEAD
 Run Build Command(s):/usr/bin/make cmTC_64e86/fast && /usr/bin/make -f CMakeFiles/cmTC_64e86.dir/build.make CMakeFiles/cmTC_64e86.dir/build
 make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_64e86.dir/testCCompiler.c.obj
@@ -39,6 +40,18 @@ Linking C static library libcmTC_64e86.a
 /home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_64e86.a CMakeFiles/cmTC_64e86.dir/testCCompiler.c.obj
   ==>  new archive 'libcmTC_64e86.a'
   ==>  building archive 'libcmTC_64e86.a'
+=======
+Run Build Command(s):/usr/bin/make cmTC_70c77/fast && /usr/bin/make -f CMakeFiles/cmTC_70c77.dir/build.make CMakeFiles/cmTC_70c77.dir/build
+make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_70c77.dir/testCCompiler.c.obj
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl --compile_only --c_file=/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp/testCCompiler.c   -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include    --output_file=CMakeFiles/cmTC_70c77.dir/testCCompiler.c.obj
+Linking C static library libcmTC_70c77.a
+/usr/bin/cmake -P CMakeFiles/cmTC_70c77.dir/cmake_clean_target.cmake
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_70c77.dir/link.txt --verbose=1
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_70c77.a CMakeFiles/cmTC_70c77.dir/testCCompiler.c.obj
+  ==>  new archive 'libcmTC_70c77.a'
+  ==>  building archive 'libcmTC_70c77.a'
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
 
 
@@ -46,6 +59,7 @@ make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/C
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp
 
+<<<<<<< HEAD
 Run Build Command(s):/usr/bin/make cmTC_23e6a/fast && /usr/bin/make -f CMakeFiles/cmTC_23e6a.dir/build.make CMakeFiles/cmTC_23e6a.dir/build
 make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_23e6a.dir/CMakeCCompilerABI.c.obj
@@ -56,6 +70,18 @@ Linking C static library libcmTC_23e6a.a
 /home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_23e6a.a CMakeFiles/cmTC_23e6a.dir/CMakeCCompilerABI.c.obj
   ==>  new archive 'libcmTC_23e6a.a'
   ==>  building archive 'libcmTC_23e6a.a'
+=======
+Run Build Command(s):/usr/bin/make cmTC_e8400/fast && /usr/bin/make -f CMakeFiles/cmTC_e8400.dir/build.make CMakeFiles/cmTC_e8400.dir/build
+make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e8400.dir/CMakeCCompilerABI.c.obj
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl --compile_only --c_file=/usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c   -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include    --output_file=CMakeFiles/cmTC_e8400.dir/CMakeCCompilerABI.c.obj
+Linking C static library libcmTC_e8400.a
+/usr/bin/cmake -P CMakeFiles/cmTC_e8400.dir/cmake_clean_target.cmake
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e8400.dir/link.txt --verbose=1
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_e8400.a CMakeFiles/cmTC_e8400.dir/CMakeCCompilerABI.c.obj
+  ==>  new archive 'libcmTC_e8400.a'
+  ==>  building archive 'libcmTC_e8400.a'
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
 
 
@@ -63,6 +89,7 @@ make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/C
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp
 
+<<<<<<< HEAD
 Run Build Command(s):/usr/bin/make cmTC_6e444/fast && /usr/bin/make -f CMakeFiles/cmTC_6e444.dir/build.make CMakeFiles/cmTC_6e444.dir/build
 make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
 Building CXX object CMakeFiles/cmTC_6e444.dir/testCXXCompiler.cxx.obj
@@ -73,6 +100,18 @@ Linking CXX static library libcmTC_6e444.a
 /home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_6e444.a CMakeFiles/cmTC_6e444.dir/testCXXCompiler.cxx.obj
   ==>  new archive 'libcmTC_6e444.a'
   ==>  building archive 'libcmTC_6e444.a'
+=======
+Run Build Command(s):/usr/bin/make cmTC_7f7de/fast && /usr/bin/make -f CMakeFiles/cmTC_7f7de.dir/build.make CMakeFiles/cmTC_7f7de.dir/build
+make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7f7de.dir/testCXXCompiler.cxx.obj
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl --compile_only --cpp_file=/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp/testCXXCompiler.cxx   -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx    --output_file=CMakeFiles/cmTC_7f7de.dir/testCXXCompiler.cxx.obj
+Linking CXX static library libcmTC_7f7de.a
+/usr/bin/cmake -P CMakeFiles/cmTC_7f7de.dir/cmake_clean_target.cmake
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f7de.dir/link.txt --verbose=1
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_7f7de.a CMakeFiles/cmTC_7f7de.dir/testCXXCompiler.cxx.obj
+  ==>  new archive 'libcmTC_7f7de.a'
+  ==>  building archive 'libcmTC_7f7de.a'
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
 
 
@@ -80,6 +119,7 @@ make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/C
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp
 
+<<<<<<< HEAD
 Run Build Command(s):/usr/bin/make cmTC_21c3c/fast && /usr/bin/make -f CMakeFiles/cmTC_21c3c.dir/build.make CMakeFiles/cmTC_21c3c.dir/build
 make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
 Building CXX object CMakeFiles/cmTC_21c3c.dir/CMakeCXXCompilerABI.cpp.obj
@@ -90,6 +130,18 @@ Linking CXX static library libcmTC_21c3c.a
 /home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_21c3c.a CMakeFiles/cmTC_21c3c.dir/CMakeCXXCompilerABI.cpp.obj
   ==>  new archive 'libcmTC_21c3c.a'
   ==>  building archive 'libcmTC_21c3c.a'
+=======
+Run Build Command(s):/usr/bin/make cmTC_98589/fast && /usr/bin/make -f CMakeFiles/cmTC_98589.dir/build.make CMakeFiles/cmTC_98589.dir/build
+make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_98589.dir/CMakeCXXCompilerABI.cpp.obj
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl --compile_only --cpp_file=/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp   -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx    --output_file=CMakeFiles/cmTC_98589.dir/CMakeCXXCompilerABI.cpp.obj
+Linking CXX static library libcmTC_98589.a
+/usr/bin/cmake -P CMakeFiles/cmTC_98589.dir/cmake_clean_target.cmake
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_98589.dir/link.txt --verbose=1
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_98589.a CMakeFiles/cmTC_98589.dir/CMakeCXXCompilerABI.cpp.obj
+  ==>  new archive 'libcmTC_98589.a'
+  ==>  building archive 'libcmTC_98589.a'
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/CMakeFiles/CMakeTmp'
 
 

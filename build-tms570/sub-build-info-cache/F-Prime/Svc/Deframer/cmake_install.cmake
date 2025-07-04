@@ -2,7 +2,11 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
+<<<<<<< HEAD
   set(CMAKE_INSTALL_PREFIX "/home/ameya/fprimesandbox/StarterPack/build-artifacts")
+=======
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
+>>>>>>> 7a3564c8caf3a77cf1bb6d9611ac07702ad74012
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

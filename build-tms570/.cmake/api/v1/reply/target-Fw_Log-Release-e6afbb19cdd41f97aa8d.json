@@ -1,0 +1,834 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/tms570-toolchain/libFw_Log.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"generate_base_module_properties",
+			"generate_library",
+			"register_fprime_module",
+			"add_dependencies",
+			"build_setup_build_module",
+			"build_add_module_target",
+			"cmake_language",
+			"setup_single_target",
+			"setup_module_targets",
+			"target_link_libraries",
+			"add_definitions",
+			"include",
+			"include_directories",
+			"fprime_setup_global_includes",
+			"fprime_initialize_build_system",
+			"fprime_detect_libraries",
+			"set_target_properties"
+		],
+		"files" : 
+		[
+			"lib/fprime/cmake/module.cmake",
+			"lib/fprime/cmake/API.cmake",
+			"lib/fprime/Fw/Log/CMakeLists.txt",
+			"lib/fprime/cmake/target/build.cmake",
+			"build-tms570/cmake_language.cmake",
+			"lib/fprime/cmake/target/target.cmake",
+			"lib/fprime-tms570/cmake/platform/TMS570.cmake",
+			"lib/fprime/cmake/platform/platform.cmake",
+			"lib/fprime/cmake/FPrime.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 245,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 83,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 247,
+				"parent" : 1
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 3
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 116,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 30,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 151,
+				"parent" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 82,
+				"parent" : 10
+			},
+			{
+				"command" : 10,
+				"file" : 3,
+				"line" : 92,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 82,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 82,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 82,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 82,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 82,
+				"parent" : 10
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 12,
+				"file" : 9,
+				"line" : 13,
+				"parent" : 18
+			},
+			{
+				"file" : 8,
+				"parent" : 19
+			},
+			{
+				"command" : 12,
+				"file" : 8,
+				"line" : 39,
+				"parent" : 20
+			},
+			{
+				"file" : 7,
+				"parent" : 21
+			},
+			{
+				"command" : 12,
+				"file" : 7,
+				"line" : 44,
+				"parent" : 22
+			},
+			{
+				"file" : 6,
+				"parent" : 23
+			},
+			{
+				"command" : 11,
+				"file" : 6,
+				"line" : 69,
+				"parent" : 24
+			},
+			{
+				"command" : 11,
+				"file" : 6,
+				"line" : 48,
+				"parent" : 24
+			},
+			{
+				"command" : 13,
+				"file" : 6,
+				"line" : 72,
+				"parent" : 24
+			},
+			{
+				"command" : 13,
+				"file" : 6,
+				"line" : 73,
+				"parent" : 24
+			},
+			{
+				"command" : 15,
+				"file" : 8,
+				"line" : 233,
+				"parent" : 20
+			},
+			{
+				"command" : 14,
+				"file" : 8,
+				"line" : 156,
+				"parent" : 29
+			},
+			{
+				"command" : 13,
+				"file" : 8,
+				"line" : 62,
+				"parent" : 30
+			},
+			{
+				"command" : 13,
+				"file" : 8,
+				"line" : 63,
+				"parent" : 30
+			},
+			{
+				"command" : 13,
+				"file" : 8,
+				"line" : 64,
+				"parent" : 30
+			},
+			{
+				"command" : 13,
+				"file" : 8,
+				"line" : 67,
+				"parent" : 30
+			},
+			{
+				"command" : 13,
+				"file" : 8,
+				"line" : 68,
+				"parent" : 30
+			},
+			{
+				"command" : 13,
+				"file" : 8,
+				"line" : 69,
+				"parent" : 30
+			},
+			{
+				"command" : 16,
+				"file" : 8,
+				"line" : 157,
+				"parent" : 29
+			},
+			{
+				"command" : 13,
+				"file" : 8,
+				"line" : 106,
+				"parent" : 37
+			},
+			{
+				"command" : 13,
+				"file" : 6,
+				"line" : 68,
+				"parent" : 24
+			},
+			{
+				"command" : 17,
+				"file" : 3,
+				"line" : 55,
+				"parent" : 10
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number  "
+				},
+				{
+					"fragment" : "-DASSERT_FILE_ID=0xba51d394 -DASSERT_RELATIVE_PATH='\"Fw/Log/LogBuffer.cpp\"'"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "FW_BAREMETAL_SCHEDULER=1"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "PLATFORM_OVERRIDE_GCC_CLANG_CHECK"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "TGT_OS_TYPE_TMS570"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 27,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/source"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime/config"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/home/ameya/fprimesandbox/StarterPack"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/config"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570"
+				},
+				{
+					"backtrace" : 39,
+					"isSystem" : true,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/platform/types"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number  "
+				},
+				{
+					"fragment" : "-DASSERT_FILE_ID=0xfe80c6ee -DASSERT_RELATIVE_PATH='\"Fw/Log/LogPacket.cpp\"'"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "FW_BAREMETAL_SCHEDULER=1"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "PLATFORM_OVERRIDE_GCC_CLANG_CHECK"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "TGT_OS_TYPE_TMS570"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 27,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/source"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime/config"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/home/ameya/fprimesandbox/StarterPack"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/config"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570"
+				},
+				{
+					"backtrace" : 39,
+					"isSystem" : true,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/platform/types"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number  "
+				},
+				{
+					"fragment" : "-DASSERT_FILE_ID=0xe8bb92e6 -DASSERT_RELATIVE_PATH='\"build-tms570/F-Prime/Fw/Log/LogPortAc.cpp\"'"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "FW_BAREMETAL_SCHEDULER=1"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "PLATFORM_OVERRIDE_GCC_CLANG_CHECK"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "TGT_OS_TYPE_TMS570"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 27,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/source"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime/config"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/home/ameya/fprimesandbox/StarterPack"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/config"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570"
+				},
+				{
+					"backtrace" : 39,
+					"isSystem" : true,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/platform/types"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				5
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number  "
+				},
+				{
+					"fragment" : "-DASSERT_FILE_ID=0x48c883dd -DASSERT_RELATIVE_PATH='\"build-tms570/F-Prime/Fw/Log/LogSeverityEnumAc.cpp\"'"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "FW_BAREMETAL_SCHEDULER=1"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "PLATFORM_OVERRIDE_GCC_CLANG_CHECK"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "TGT_OS_TYPE_TMS570"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 27,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/source"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime/config"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/home/ameya/fprimesandbox/StarterPack"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/config"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570"
+				},
+				{
+					"backtrace" : 39,
+					"isSystem" : true,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/platform/types"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				7
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number  "
+				},
+				{
+					"fragment" : "-DASSERT_FILE_ID=0x5689270f -DASSERT_RELATIVE_PATH='\"build-tms570/F-Prime/Fw/Log/LogTextPortAc.cpp\"'"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "FW_BAREMETAL_SCHEDULER=1"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "PLATFORM_OVERRIDE_GCC_CLANG_CHECK"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "TGT_OS_TYPE_TMS570"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 27,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/tms570-hal/source"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime/config"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/home/ameya/fprimesandbox/StarterPack"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/build-tms570/config"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570"
+				},
+				{
+					"backtrace" : 39,
+					"isSystem" : true,
+					"path" : "/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/platform/types"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				9
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "config::@1ea838694151cac89012"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "Fw_Com::@6a3e6ae556dcaf1b2d03"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "Fw_Logger::@6651bd2042d48ad4175a"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "Fw_Time::@8ee86473d26419eb0a0e"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "Fw_Tlm::@9a2bbdd1c1e62b480de7"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "Fw_Cfg::@3d630e8d24c0bc520c50"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "Fw_Obj::@912483ad28fc1305733b"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "Fw_Port::@1b2ea0455839762bd179"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "Fw_Types::@765d384e0a6293393b03"
+		}
+	],
+	"id" : "Fw_Log::@d2c214098f28da1657da",
+	"name" : "Fw_Log",
+	"nameOnDisk" : "libFw_Log.a",
+	"paths" : 
+	{
+		"build" : "F-Prime/Fw/Log",
+		"source" : "lib/fprime/Fw/Log"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				5,
+				7,
+				9
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				8,
+				10
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				11,
+				12
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 40,
+			"compileGroupIndex" : 0,
+			"path" : "lib/fprime/Fw/Log/LogBuffer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 40,
+			"compileGroupIndex" : 1,
+			"path" : "lib/fprime/Fw/Log/LogPacket.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 40,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogPortAi.xml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 40,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogSeverityEnumAi.xml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 40,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogTextPortAi.xml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 40,
+			"compileGroupIndex" : 2,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogPortAc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 40,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogPortAc.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 40,
+			"compileGroupIndex" : 3,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogSeverityEnumAc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 40,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogSeverityEnumAc.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 40,
+			"compileGroupIndex" : 4,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogTextPortAc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 40,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogTextPortAc.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogPortAi.xml.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-tms570/F-Prime/Fw/Log/LogPortAc.cpp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
