@@ -1,0 +1,5 @@
+
+/home/ameya/fprimesandbox/StarterPack/Components/ADC/ADC.cpp
+/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/ADC/ADCComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/ADC/ADCComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/ADC/ADCComponentAc.hpp
+/home/ameya/fprimesandbox/StarterPack/Components/ADC/ADC.fpp
+

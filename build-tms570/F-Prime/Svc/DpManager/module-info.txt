@@ -1,0 +1,5 @@
+
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/DpManager/DpManager.cpp
+/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpManager/DpManagerComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpManager/DpManagerComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpManager/DpManagerComponentAc.hpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/DpManager/DpManager.fpp
+

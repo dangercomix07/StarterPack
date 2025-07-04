@@ -1,0 +1,6 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Cmd/Cmd.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Dp/Dp.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Log/Log.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Tlm/Tlm.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Sched/Sched.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/config/AcConstants.fpp

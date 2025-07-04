@@ -1,0 +1,7 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Cmd/Cmd.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Log/Log.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Tlm/Tlm.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FileManager/Commands.fppi
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FileManager/Events.fppi
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FileManager/Telemetry.fppi
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Ping/Ping.fpp

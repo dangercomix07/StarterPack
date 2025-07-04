@@ -1,0 +1,5 @@
+
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Deframer/Deframer.cpp
+/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Deframer/DeframerComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Deframer/DeframerComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Deframer/DeframerComponentAc.hpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Deframer/Deframer.fpp
+Svc/FramingProtocol;Utils/Types

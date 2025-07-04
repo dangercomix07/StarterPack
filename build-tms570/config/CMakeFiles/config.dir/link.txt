@@ -1,0 +1,1 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../lib/tms570-toolchain/libconfig.a CMakeFiles/config.dir/FppConstantsAc.cpp.obj CMakeFiles/config.dir/PolyDbEntryEnumAc.cpp.obj CMakeFiles/config.dir/ProcTypeEnumAc.cpp.obj CMakeFiles/config.dir/VersionEnumEnumAc.cpp.obj

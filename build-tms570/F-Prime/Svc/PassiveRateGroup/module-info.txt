@@ -1,0 +1,5 @@
+
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/PassiveRateGroup/PassiveRateGroup.cpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/PassiveRateGroup/PassiveRateGroup.hpp
+/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PassiveRateGroup/PassiveRateGroupComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PassiveRateGroup/PassiveRateGroupComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PassiveRateGroup/PassiveRateGroupComponentAc.hpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/PassiveRateGroup/PassiveRateGroup.fpp
+

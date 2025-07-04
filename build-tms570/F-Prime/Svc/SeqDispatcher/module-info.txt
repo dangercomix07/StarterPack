@@ -1,0 +1,5 @@
+
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcher.cpp
+/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SeqDispatcher/SeqDispatcherComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SeqDispatcher/SeqDispatcher_CmdSequencerStateEnumAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SeqDispatcher/SeqDispatcherComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SeqDispatcher/SeqDispatcherComponentAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SeqDispatcher/SeqDispatcher_CmdSequencerStateEnumAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SeqDispatcher/SeqDispatcher_CmdSequencerStateEnumAc.hpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcher.fpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherCommands.fppi;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherEvents.fppi;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherTelemetry.fppi
+

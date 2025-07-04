@@ -1,0 +1,4 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Com/Com.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Tlm/Tlm.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Ping/Ping.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Sched/Sched.fpp

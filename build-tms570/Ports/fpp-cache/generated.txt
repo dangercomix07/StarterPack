@@ -1,0 +1,9 @@
+adcSamplePortAc.cpp
+adcSamplePortAc.hpp
+adcSamplePortAi.xml
+spiSamplePortAc.cpp
+spiSamplePortAc.hpp
+spiSamplePortAi.xml
+spiSampleRequestPortAc.cpp
+spiSampleRequestPortAc.hpp
+spiSampleRequestPortAi.xml

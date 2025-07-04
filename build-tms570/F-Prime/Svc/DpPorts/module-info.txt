@@ -1,0 +1,5 @@
+
+
+/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpPorts/DpWrittenPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpPorts/DpWrittenPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpPorts/DpWrittenPortAc.hpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/DpPorts/DpPorts.fpp
+Fw/Types;Fw/Port
