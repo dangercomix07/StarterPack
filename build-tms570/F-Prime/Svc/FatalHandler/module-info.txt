@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FatalHandler/FatalHandlerComponentCommonImpl.cpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FatalHandler/FatalHandlerComponentBaremetalImpl.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/FatalHandler/FatalHandlerComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/FatalHandler/FatalHandlerComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/FatalHandler/FatalHandlerComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FatalHandler/FatalHandler.fpp
-Os;Fw/Logger

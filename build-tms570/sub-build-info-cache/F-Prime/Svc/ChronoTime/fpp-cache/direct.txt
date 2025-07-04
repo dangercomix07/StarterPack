@@ -1,2 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/Time.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Interfaces/TimeInterface.fppi

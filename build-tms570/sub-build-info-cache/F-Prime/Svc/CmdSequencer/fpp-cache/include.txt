@@ -1,3 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/CmdSequencer/Commands.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/CmdSequencer/Events.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/CmdSequencer/Telemetry.fppi

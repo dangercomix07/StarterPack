@@ -1,4 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Buffer/Buffer.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Com/Com.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Ports/SuccessCondition/SuccessCondition.fpp

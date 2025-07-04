@@ -1,5 +1,0 @@
-SimSPIGTestBase.cpp
-SimSPIGTestBase.hpp
-SimSPITesterBase.cpp
-SimSPITesterBase.hpp
-SimSPITesterHelpers.cpp

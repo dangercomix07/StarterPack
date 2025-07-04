@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/Drivers/TMS570UartDriver/TMS570UartDriver.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/Drivers/TMS570UartDriver/TMS570UartDriverComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/Drivers/TMS570UartDriver/TMS570UartDriverComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Drivers/TMS570UartDriver/TMS570UartDriverComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/Drivers/TMS570UartDriver/TMS570UartDriver.fpp
-

@@ -1,1 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../../../lib/tms570-toolchain/libSvc_FileManager.a CMakeFiles/Svc_FileManager.dir/FileManager.cpp.obj CMakeFiles/Svc_FileManager.dir/FileManagerComponentAc.cpp.obj

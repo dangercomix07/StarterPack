@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ComSplitter/ComSplitter.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ComSplitter/ComSplitterComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ComSplitter/ComSplitterComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ComSplitter/ComSplitterComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ComSplitter/ComSplitter.fpp
-

@@ -1,3 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherCommands.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherEvents.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherTelemetry.fppi

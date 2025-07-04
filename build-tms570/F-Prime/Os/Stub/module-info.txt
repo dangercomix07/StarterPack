@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Os/Stub/RawTime.cpp
-
-
-Os_RawTime_Common

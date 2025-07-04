@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SystemResources/SystemResources.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SystemResources/SystemResourceEnabledEnumAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SystemResources/SystemResourcesComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SystemResources/SystemResourceEnabledEnumAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SystemResources/SystemResourceEnabledEnumAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SystemResources/SystemResourcesComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/SystemResources/SystemResourcesComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SystemResources/SystemResources.fpp
-Os

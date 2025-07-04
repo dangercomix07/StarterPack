@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/PassiveConsoleTextLogger/ConsoleTextLoggerImplCommon.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/PassiveConsoleTextLogger/PassiveConsoleTextLogger.fpp
-Fw/Logger

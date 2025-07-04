@@ -1,1 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../../../lib/tms570-toolchain/libSvc_FramingProtocol.a CMakeFiles/Svc_FramingProtocol.dir/DeframingProtocol.cpp.obj CMakeFiles/Svc_FramingProtocol.dir/FramingProtocol.cpp.obj CMakeFiles/Svc_FramingProtocol.dir/FprimeProtocol.cpp.obj

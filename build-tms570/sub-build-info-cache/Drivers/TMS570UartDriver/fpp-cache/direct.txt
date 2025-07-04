@@ -1,5 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Cmd/Cmd.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Log/Log.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Prm/Prm.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/Time.fpp

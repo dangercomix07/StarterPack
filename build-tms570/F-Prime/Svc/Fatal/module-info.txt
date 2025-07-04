@@ -1,5 +1,0 @@
-
-
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Fatal/FatalEventPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Fatal/FatalEventPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Fatal/FatalEventPortAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Fatal/Fatal.fpp
-Fw/Port

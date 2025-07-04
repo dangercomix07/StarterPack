@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ActiveTextLogger/ActiveTextLogger.cpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ActiveTextLogger/LogFile.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ActiveTextLogger/ActiveTextLoggerComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ActiveTextLogger/ActiveTextLoggerComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ActiveTextLogger/ActiveTextLoggerComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ActiveTextLogger/ActiveTextLogger.fpp
-

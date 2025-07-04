@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/Components/Led/Led.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/Led/LedComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/Led/LedComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/Led/LedComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/Components/Led/Led.fpp
-

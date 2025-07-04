@@ -1,1 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../../../lib/tms570-toolchain/libSvc_ChronoTime.a CMakeFiles/Svc_ChronoTime.dir/__/__/cmake/empty.cpp.obj

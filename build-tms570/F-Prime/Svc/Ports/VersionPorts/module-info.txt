@@ -1,5 +1,0 @@
-
-
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Ports/VersionPorts/VersionPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Ports/VersionPorts/VersionStatusEnumAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Ports/VersionPorts/VersionPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Ports/VersionPorts/VersionPortAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Ports/VersionPorts/VersionStatusEnumAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Ports/VersionPorts/VersionStatusEnumAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Ports/VersionPorts/VersionPorts.fpp
-

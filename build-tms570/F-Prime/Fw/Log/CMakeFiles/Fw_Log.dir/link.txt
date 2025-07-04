@@ -1,1 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../../../lib/tms570-toolchain/libFw_Log.a CMakeFiles/Fw_Log.dir/LogBuffer.cpp.obj CMakeFiles/Fw_Log.dir/LogPacket.cpp.obj CMakeFiles/Fw_Log.dir/LogPortAc.cpp.obj CMakeFiles/Fw_Log.dir/LogSeverityEnumAc.cpp.obj CMakeFiles/Fw_Log.dir/LogTextPortAc.cpp.obj

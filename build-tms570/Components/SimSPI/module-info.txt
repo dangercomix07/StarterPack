@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/Components/SimSPI/SimSPI.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/SimSPI/SimSPIComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/SimSPI/SimSPIComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Components/SimSPI/SimSPIComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/Components/SimSPI/SimSPI.fpp
-

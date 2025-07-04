@@ -1,2 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FileUplink/Events.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FileUplink/Telemetry.fppi

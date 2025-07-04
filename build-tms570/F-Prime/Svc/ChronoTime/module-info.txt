@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ChronoTime/ChronoTime.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ChronoTime/ChronoTimeComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ChronoTime/ChronoTimeComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ChronoTime/ChronoTimeComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ChronoTime/ChronoTime.fpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Interfaces/TimeInterface.fppi
-

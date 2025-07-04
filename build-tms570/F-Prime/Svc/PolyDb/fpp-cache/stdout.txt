@@ -1,4 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/Time.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Types/Types.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/PolyIf/PolyIf.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/config/PolyDbCfg.fpp

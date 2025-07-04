@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/TlmChan/TlmChan.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/TlmChan/TlmChanComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/TlmChan/TlmChanComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/TlmChan/TlmChanComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/TlmChan/TlmChan.fpp
-

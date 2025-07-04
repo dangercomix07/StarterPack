@@ -1,1 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../../../lib/tms570-toolchain/libFw_Tlm.a CMakeFiles/Fw_Tlm.dir/TlmBuffer.cpp.obj CMakeFiles/Fw_Tlm.dir/TlmPacket.cpp.obj CMakeFiles/Fw_Tlm.dir/TlmGetPortAc.cpp.obj CMakeFiles/Fw_Tlm.dir/TlmPortAc.cpp.obj

@@ -1,1 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../../lib/tms570-toolchain/libOs.a CMakeFiles/Os.dir/ValidateFileCommon.cpp.obj CMakeFiles/Os.dir/ValidatedFile.cpp.obj CMakeFiles/Os.dir/IntervalTimer.cpp.obj CMakeFiles/Os.dir/Os.cpp.obj

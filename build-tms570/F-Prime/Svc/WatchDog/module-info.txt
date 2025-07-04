@@ -1,5 +1,0 @@
-
-
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/WatchDog/WatchDogPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/WatchDog/WatchDogPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/WatchDog/WatchDogPortAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/WatchDog/WatchDog.fpp
-Fw/Port

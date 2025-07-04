@@ -1,2 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Drv/BlockDriver/Tlm.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Drv/Interfaces/TickInterface.fppi

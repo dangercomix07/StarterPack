@@ -1,5 +1,0 @@
-
-
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Sched/SchedPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Sched/SchedPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Sched/SchedPortAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Sched/Sched.fpp
-Fw/Port

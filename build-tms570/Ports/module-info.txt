@@ -1,5 +1,0 @@
-
-
-/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/adcSamplePortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/spiSamplePortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/spiSampleRequestPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/adcSamplePortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/adcSamplePortAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/spiSamplePortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/spiSamplePortAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/spiSampleRequestPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/Ports/spiSampleRequestPortAc.hpp
-/home/ameya/fprimesandbox/StarterPack/Ports/TestPorts.fpp
-

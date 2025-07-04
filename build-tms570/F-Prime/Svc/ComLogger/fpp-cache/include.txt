@@ -1,2 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ComLogger/Commands.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ComLogger/Events.fppi

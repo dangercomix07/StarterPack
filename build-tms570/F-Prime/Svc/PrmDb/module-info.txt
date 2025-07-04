@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/PrmDb/PrmDbImpl.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDbComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDb_PrmReadErrorEnumAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDb_PrmWriteErrorEnumAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDbComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDbComponentAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDb_PrmReadErrorEnumAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDb_PrmReadErrorEnumAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDb_PrmWriteErrorEnumAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/PrmDb/PrmDb_PrmWriteErrorEnumAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/PrmDb/PrmDb.fpp
-

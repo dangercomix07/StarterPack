@@ -1,3 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Cmd/Cmd.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Com/Com.fpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/config/AcConstants.fpp

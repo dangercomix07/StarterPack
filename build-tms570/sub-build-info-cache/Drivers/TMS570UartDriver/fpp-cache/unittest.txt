@@ -1,5 +1,0 @@
-TMS570UartDriverGTestBase.cpp
-TMS570UartDriverGTestBase.hpp
-TMS570UartDriverTesterBase.cpp
-TMS570UartDriverTesterBase.hpp
-TMS570UartDriverTesterHelpers.cpp

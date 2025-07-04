@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/GenericHub/GenericHubComponentImpl.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/GenericHub/GenericHubComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/GenericHub/GenericHubComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/GenericHub/GenericHubComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/GenericHub/GenericHub.fpp
-

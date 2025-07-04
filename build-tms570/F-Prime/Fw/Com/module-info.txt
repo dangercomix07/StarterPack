@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Com/ComPacket.cpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Com/ComBuffer.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Com/ComPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Com/ComPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Com/ComPortAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Com/Com.fpp
-

@@ -1,1 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../../lib/tms570-toolchain/libOs_File_Common.a CMakeFiles/Os_File_Common.dir/__/cmake/empty.cpp.obj

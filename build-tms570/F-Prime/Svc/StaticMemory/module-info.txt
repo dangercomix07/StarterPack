@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/StaticMemory/StaticMemoryComponentImpl.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/StaticMemory/StaticMemoryComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/StaticMemory/StaticMemoryComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/StaticMemory/StaticMemoryComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/StaticMemory/StaticMemory.fpp
-

@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/CmdSplitter/CmdSplitter.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/CmdSplitter/CmdSplitterComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/CmdSplitter/CmdSplitterComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/CmdSplitter/CmdSplitterComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/CmdSplitter/CmdSplitter.fpp
-

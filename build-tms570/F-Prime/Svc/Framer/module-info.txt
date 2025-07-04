@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Framer/Framer.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Framer/FramerComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Framer/FramerComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Framer/FramerComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Framer/Framer.fpp
-Svc/FramingProtocol

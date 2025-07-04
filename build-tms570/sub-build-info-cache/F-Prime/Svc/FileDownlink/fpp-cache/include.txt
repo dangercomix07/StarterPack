@@ -1,3 +1,0 @@
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FileDownlink/Commands.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FileDownlink/Events.fppi
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/FileDownlink/Telemetry.fppi

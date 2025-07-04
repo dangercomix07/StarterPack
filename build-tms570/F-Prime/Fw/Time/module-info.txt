@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/Time.cpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/TimeInterval.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Time/TimeIntervalPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Time/TimePortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Time/TimeIntervalPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Time/TimeIntervalPortAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Time/TimePortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Fw/Time/TimePortAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/Time.fpp
-

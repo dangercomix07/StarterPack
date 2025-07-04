@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ComLogger/ComLogger.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ComLogger/ComLoggerComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ComLogger/ComLoggerComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/ComLogger/ComLoggerComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ComLogger/ComLogger.fpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ComLogger/Commands.fppi;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/ComLogger/Events.fppi
-

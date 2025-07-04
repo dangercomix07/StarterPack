@@ -1,5 +1,0 @@
-
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/DpWriter/DpWriter.cpp
-/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpWriter/DpWriterComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpWriter/DpWriterComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/DpWriter/DpWriterComponentAc.hpp
-/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/DpWriter/DpWriter.fpp
-Fw/Dp
