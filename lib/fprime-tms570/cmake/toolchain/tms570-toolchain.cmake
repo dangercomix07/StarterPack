@@ -38,6 +38,7 @@
 # --- System info ---
 set(CMAKE_SYSTEM_NAME Generic)                # Bare-metal target
 set(CMAKE_SYSTEM_PROCESSOR cortex-r5)         # ARM R5 core of TMS570LC43
+set(CMAKE_CROSSCOMPILING 1)
 set(FPRIME_PLATFORM TMS570)                   # F´ platform ID
 
 # --- Toolchain location ---

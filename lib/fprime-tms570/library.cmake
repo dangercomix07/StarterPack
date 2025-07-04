@@ -1,1 +1,1 @@
-add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/Drivers/TMS570UartDriver")
+add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/Drv/TMS570UartDriver")
