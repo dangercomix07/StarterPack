@@ -1,0 +1,5 @@
+
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/BufferManager/BufferManagerComponentImpl.cpp
+/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/BufferManager/BufferManagerComponentAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/BufferManager/BufferManagerComponentAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/BufferManager/BufferManagerComponentAc.hpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/BufferManager/BufferManager.fpp;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/BufferManager/Events.fppi;/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/BufferManager/Telemetry.fppi
+

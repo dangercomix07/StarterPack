@@ -55,6 +55,22 @@
         "description": "F´ debug build including unit tests using ninja and local fprime-venv",
         "binaryDir": "${sourceDir}/build-fprime-automatic-native-ut",
         "generator": "Ninja"
+      },
+
+      {
+        "name": "fprime-tms570",
+        "displayName": "F´ TMS570 Preset",
+        "description": "Cross compile with TI ARM CGT toolchain for TMS570",
+        "binaryDir": "${sourceDir}/build-tms570",
+        "environment": {
+          "VIRTUAL_ENV": "${fileDir}/fprime-venv",
+          "PATH": "$env{VIRTUAL_ENV}/bin:$penv{PATH}"
+        },
+        "cacheVariables": {
+          "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/lib/fprime-tms570/cmake/toolchain/tms570-toolchain.cmake",
+          "CMAKE_BUILD_TYPE": "Release",
+          "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+        }
       }
     ]
 }

@@ -1,0 +1,1 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r ../../../lib/tms570-toolchain/libFw_Test.a CMakeFiles/Fw_Test.dir/UnitTestAssert.cpp.obj

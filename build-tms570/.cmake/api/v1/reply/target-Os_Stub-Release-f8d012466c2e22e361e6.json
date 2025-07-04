@@ -1,0 +1,35 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"lib/fprime/Os/Stub/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "Os_Stub::@a06e7e2787a76141ee53",
+	"name" : "Os_Stub",
+	"paths" : 
+	{
+		"build" : "F-Prime/Os/Stub",
+		"source" : "lib/fprime/Os/Stub"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

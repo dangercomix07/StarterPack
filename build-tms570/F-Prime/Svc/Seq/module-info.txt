@@ -1,0 +1,5 @@
+
+
+/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Seq/CmdSeqCancelPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Seq/CmdSeqInPortAi.xml;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Seq/CmdSeqCancelPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Seq/CmdSeqCancelPortAc.hpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Seq/CmdSeqInPortAc.cpp;/home/ameya/fprimesandbox/StarterPack/build-tms570/F-Prime/Svc/Seq/CmdSeqInPortAc.hpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Seq/Seq.fpp
+Fw/Port

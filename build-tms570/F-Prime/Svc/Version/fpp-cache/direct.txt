@@ -1,0 +1,6 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Cmd/Cmd.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Log/Log.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/Time.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Tlm/Tlm.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Ports/VersionPorts/VersionPorts.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/config/VersionCfg.fpp

@@ -1,0 +1,10 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Cmd/Cmd.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Log/Log.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/Time.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Tlm/Tlm.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Types/Types.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Seq/Seq.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherCommands.fppi
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherEvents.fppi
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/SeqDispatcher/SeqDispatcherTelemetry.fppi
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/config/AcConstants.fpp

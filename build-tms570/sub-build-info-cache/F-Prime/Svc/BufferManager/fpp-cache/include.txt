@@ -1,0 +1,2 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/BufferManager/Events.fppi
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/BufferManager/Telemetry.fppi

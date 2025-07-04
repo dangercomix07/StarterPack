@@ -1,0 +1,9 @@
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Buffer/Buffer.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Cmd/Cmd.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Log/Log.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Time/Time.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Fw/Tlm/Tlm.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/DpPorts/DpPorts.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/Svc/Sched/Sched.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/config/AcConstants.fpp
+/home/ameya/fprimesandbox/StarterPack/lib/fprime/config/FpConfig.fpp

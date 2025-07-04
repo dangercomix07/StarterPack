@@ -1,0 +1,96 @@
+The target system is: Generic -  - cortex-r5
+The host system is: Linux - 6.6.87.2-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl 
+Build flags: ;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include;-mv7R5;--code_state=32;--float_support=VFPv3D16;--enum_type=packed;--abi=eabi;-g;--diag_warning=225;--diag_wrap=off;--display_error_number;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is TI, found in "/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.obj"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl 
+Build flags: ;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx;-mv7R5;--code_state=32;--float_support=VFPv3D16;--enum_type=packed;--abi=eabi;-g;--diag_warning=225;--diag_wrap=off;--display_error_number;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include;-I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is TI, found in "/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.obj"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_55ce4/fast && /usr/bin/make -f CMakeFiles/cmTC_55ce4.dir/build.make CMakeFiles/cmTC_55ce4.dir/build
+make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_55ce4.dir/testCCompiler.c.obj
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl --compile_only --c_file=/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp/testCCompiler.c   -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include    --output_file=CMakeFiles/cmTC_55ce4.dir/testCCompiler.c.obj
+Linking C static library libcmTC_55ce4.a
+/usr/bin/cmake -P CMakeFiles/cmTC_55ce4.dir/cmake_clean_target.cmake
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_55ce4.dir/link.txt --verbose=1
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_55ce4.a CMakeFiles/cmTC_55ce4.dir/testCCompiler.c.obj
+  ==>  new archive 'libcmTC_55ce4.a'
+  ==>  building archive 'libcmTC_55ce4.a'
+make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp'
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0c8cc/fast && /usr/bin/make -f CMakeFiles/cmTC_0c8cc.dir/build.make CMakeFiles/cmTC_0c8cc.dir/build
+make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0c8cc.dir/CMakeCCompilerABI.c.obj
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl --compile_only --c_file=/usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c   -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include    --output_file=CMakeFiles/cmTC_0c8cc.dir/CMakeCCompilerABI.c.obj
+Linking C static library libcmTC_0c8cc.a
+/usr/bin/cmake -P CMakeFiles/cmTC_0c8cc.dir/cmake_clean_target.cmake
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0c8cc.dir/link.txt --verbose=1
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_0c8cc.a CMakeFiles/cmTC_0c8cc.dir/CMakeCCompilerABI.c.obj
+  ==>  new archive 'libcmTC_0c8cc.a'
+  ==>  building archive 'libcmTC_0c8cc.a'
+make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0e4d4/fast && /usr/bin/make -f CMakeFiles/cmTC_0e4d4.dir/build.make CMakeFiles/cmTC_0e4d4.dir/build
+make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0e4d4.dir/testCXXCompiler.cxx.obj
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl --compile_only --cpp_file=/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp/testCXXCompiler.cxx   -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx    --output_file=CMakeFiles/cmTC_0e4d4.dir/testCXXCompiler.cxx.obj
+Linking CXX static library libcmTC_0e4d4.a
+/usr/bin/cmake -P CMakeFiles/cmTC_0e4d4.dir/cmake_clean_target.cmake
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0e4d4.dir/link.txt --verbose=1
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_0e4d4.a CMakeFiles/cmTC_0e4d4.dir/testCXXCompiler.cxx.obj
+  ==>  new archive 'libcmTC_0e4d4.a'
+  ==>  building archive 'libcmTC_0e4d4.a'
+make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5128a/fast && /usr/bin/make -f CMakeFiles/cmTC_5128a.dir/build.make CMakeFiles/cmTC_5128a.dir/build
+make[1]: Entering directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5128a.dir/CMakeCXXCompilerABI.cpp.obj
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/bin/armcl --compile_only --cpp_file=/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp   -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -mv7R5 --code_state=32 --float_support=VFPv3D16 --enum_type=packed --abi=eabi -g --diag_warning=225 --diag_wrap=off --display_error_number -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include -I/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/cmake/toolchain/../../ti-cgt-arm_20.2.7.LTS/include/libcxx    --output_file=CMakeFiles/cmTC_5128a.dir/CMakeCXXCompilerABI.cpp.obj
+Linking CXX static library libcmTC_5128a.a
+/usr/bin/cmake -P CMakeFiles/cmTC_5128a.dir/cmake_clean_target.cmake
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5128a.dir/link.txt --verbose=1
+/home/ameya/fprimesandbox/StarterPack/lib/fprime-tms570/ti-cgt-arm_20.2.7.LTS/bin/armar -r libcmTC_5128a.a CMakeFiles/cmTC_5128a.dir/CMakeCXXCompilerABI.cpp.obj
+  ==>  new archive 'libcmTC_5128a.a'
+  ==>  building archive 'libcmTC_5128a.a'
+make[1]: Leaving directory '/home/ameya/fprimesandbox/StarterPack/build-tms570/sub-build-info-cache/CMakeFiles/CMakeTmp'
+
+
+

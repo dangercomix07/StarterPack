@@ -1,0 +1,14 @@
+file(REMOVE_RECURSE
+  "../../lib/tms570-toolchain/libComponents_ADC.a"
+  "../../lib/tms570-toolchain/libComponents_ADC.pdb"
+  "ADCComponentAc.cpp"
+  "ADCComponentAc.hpp"
+  "ADCComponentAi.xml"
+  "CMakeFiles/Components_ADC.dir/ADC.cpp.obj"
+  "CMakeFiles/Components_ADC.dir/ADCComponentAc.cpp.obj"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Components_ADC.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
